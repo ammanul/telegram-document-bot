@@ -1,0 +1,838 @@
+{
+  "new": {
+    "template_path": "templates/new_format.jpg",
+    "regions": [
+      [0, 0, 1434, 895],
+      [1575, 0, 2985, 895]
+    ],
+    "text_data": {
+      "SN": {
+        "region": [2723, 820],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      },
+      "country": {
+        "region": [1614, 235],
+        "lang": "amh",
+        "font_size": 33,
+        "direction": "h"
+      },
+      "name_amh": {
+        "region": [575, 245],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "name_en": {
+        "region": [575, 301],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "birth_date": {
+        "region": [575, 435],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "sex": {
+        "region": [575, 519],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "phone_number": {
+        "region": [1614, 105],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_amh": {
+        "region": [1614, 329],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_en": {
+        "region": [1614, 386],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_amh": {
+        "region": [1614, 442],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_en": {
+        "region": [1614, 498],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_amh": {
+        "region": [1614, 554],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_en": {
+        "region": [1614, 610],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "issued_date_en": {
+        "region": [35, 189],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "issued_date_amh": {
+        "region": [35, 568],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "expiry_date": {
+        "region": [575, 624],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "fin": {
+        "region": [1768, 741],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      }
+    },
+    "image_data": {
+      "photo": { "region": [94, 199], "size": [421, 561] },
+      "photo_sm": { "region": [1172, 650], "size": [140, 186] },
+      "fan_barcode": { "region": [650, 700], "size": [403, 112] },
+      "qr_code": { "region": [2218, 56], "size": [729, 729] }
+    }
+  },
+  "old": {
+    "template_path": "templates/old_format.png",
+    "regions": [
+      [0, 0, 1144, 709],
+      [1261, 0, 2404, 709]
+    ],
+    "text_data": {
+      "FCN": {
+        "region": [568, 622],
+        "lang": "en",
+        "font_size": 30,
+        "direction": "h"
+      },
+      "name_amh": {
+        "region": [475, 195],
+        "lang": "amh",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "name_en": {
+        "region": [475, 225],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "birth_date_amh": {
+        "region": [475, 300],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "birth_date_en": {
+        "region": [475, 330],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "sex_amh": {
+        "region": [475, 405],
+        "lang": "amh",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "sex_en": {
+        "region": [475, 435],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "phone_number": {
+        "region": [1365, 235],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "region_amh": {
+        "region": [1365, 285],
+        "lang": "amh",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "region_en": {
+        "region": [1365, 315],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "zone_amh": {
+        "region": [1365, 370],
+        "lang": "amh",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "zone_en": {
+        "region": [1365, 400],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "woreda_amh": {
+        "region": [1365, 455],
+        "lang": "amh",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "woreda_en": {
+        "region": [1365, 485],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "date": {
+        "region": [30, 265],
+        "lang": "en",
+        "font_size": 20,
+        "direction": "v"
+      },
+      "issued_date_amh": {
+        "region": [1365, 60],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "issued_date_en": {
+        "region": [1365, 90],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "expiry_date_amh": {
+        "region": [1365, 150],
+        "lang": "amh",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "expiry_date_en": {
+        "region": [1365, 180],
+        "lang": "en",
+        "font_size": 26,
+        "direction": "h"
+      },
+      "fin": {
+        "region": [1450, 570],
+        "lang": "en",
+        "font_size": 30,
+        "direction": "h"
+      }
+    },
+    "image_data": {
+      "photo": { "region": [76, 120], "size": [367, 475] },
+      "qr_code": { "region": [1750, 30], "size": [610, 590] },
+      "fan_barcode": { "region": [112, 638], "size": [230, 45] }
+    }
+  },
+  "updated": {
+    "template_path": "templates/updated_format.jpg",
+    "regions": [
+      [0, 0, 1434, 895],
+      [1575, 0, 3000, 895]
+    ],
+    "text_data": {
+      "SN": {
+        "region": [2740, 780],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      },
+      "country": {
+        "region": [1614, 215],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "name_amh": {
+        "region": [575, 230],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "name_en": {
+        "region": [575, 285],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "birth_date": {
+        "region": [575, 420],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "sex": {
+        "region": [575, 505],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "phone_number": {
+        "region": [1614, 105],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_amh": {
+        "region": [1614, 315],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_en": {
+        "region": [1614, 370],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_amh": {
+        "region": [1614, 427],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_en": {
+        "region": [1614, 483],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_amh": {
+        "region": [1614, 540],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_en": {
+        "region": [1614, 595],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "issued_date_en": {
+        "region": [35, 155],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "issued_date_amh": {
+        "region": [35, 535],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "expiry_date": {
+        "region": [575, 600],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "fin": {
+        "region": [1768, 710],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      }
+    },
+    "image_data": {
+      "photo": { "region": [94, 199], "size": [421, 561] },
+      "photo_sm": { "region": [1172, 650], "size": [140, 186] },
+      "fan_barcode": { "region": [640, 690], "size": [403, 112] },
+      "qr_code": { "region": [2230, 45], "size": [700, 700] }
+    }
+  },
+  "T1": {
+    "template_path": "templates/T1-b.png",
+    "regions": [
+      [0, 0, 1435, 895],
+      [1568, 0, 3000, 895]
+    ],
+    "text_data": {
+      "SN": {
+        "region": [2740, 810],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      },
+      "country": {
+        "region": [1620, 230],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "name_amh": {
+        "region": [570, 245],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "name_en": {
+        "region": [570, 300],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "birth_date": {
+        "region": [570, 435],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "sex": {
+        "region": [570, 520],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "phone_number": {
+        "region": [1620, 115],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_amh": {
+        "region": [1620, 330],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_en": {
+        "region": [1620, 385],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_amh": {
+        "region": [1620, 442],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_en": {
+        "region": [1620, 500],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_amh": {
+        "region": [1620, 555],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_en": {
+        "region": [1620, 610],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "issued_date_en": {
+        "region": [35, 165],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "issued_date_amh": {
+        "region": [35, 545],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "expiry_date": {
+        "region": [570, 620],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "fin": {
+        "region": [1770, 730],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      }
+    },
+    "image_data": {
+      "photo": { "region": [100, 250], "size": [440, 540] },
+      "photo_sm": { "region": [1172, 650], "size": [160, 186] },
+      "fan_barcode": { "region": [645, 700], "size": [403, 112] },
+      "qr_code": { "region": [2220, 55], "size": [725, 725] }
+    }
+  },
+  "T2": {
+    "template_path": "templates/T2.png",
+    "regions": [
+      [0, 0, 1555, 973],
+      [1535, 0, 3098, 973]
+    ],
+    "text_data": {
+      "SN": {
+        "region": [2810, 890],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      },
+      "name_amh": {
+        "region": [620, 285],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "name_en": {
+        "region": [620, 340],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "birth_date": {
+        "region": [620, 475],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "sex": {
+        "region": [620, 560],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "phone_number": {
+        "region": [1580, 105],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "country": {
+        "region": [1580, 250],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_amh": {
+        "region": [1580, 340],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_en": {
+        "region": [1580, 395],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_amh": {
+        "region": [1580, 450],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_en": {
+        "region": [1580, 510],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_amh": {
+        "region": [1580, 565],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_en": {
+        "region": [1580, 620],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "issued_date_en": {
+        "region": [35, 220],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "issued_date_amh": {
+        "region": [35, 620],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "expiry_date": {
+        "region": [620, 665],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "fin": {
+        "region": [1690, 805],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      }
+    },
+    "image_data": {
+      "photo": { "region": [100, 280], "size": [440, 590] },
+      "photo_sm": { "region": [1230, 700], "size": [140, 186] },
+      "fan_barcode": { "region": [720, 770], "size": [400, 112] },
+      "qr_code": { "region": [2240, 50], "size": [810, 810] }
+    }
+  },
+  "T3": {
+    "template_path": "templates/T3.png",
+    "regions": [
+      [0, 0, 1435, 921],
+      [1568, 0, 3000, 921]
+    ],
+    "text_data": {
+      "name_amh": {
+        "region": [590, 260],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "name_en": {
+        "region": [590, 315],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "birth_date": {
+        "region": [590, 450],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "sex": {
+        "region": [590, 545],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "expiry_date": {
+        "region": [590, 645],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "phone_number": {
+        "region": [1605, 135],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "country": {
+        "region": [1605, 250],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_amh": {
+        "region": [1605, 355],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_en": {
+        "region": [1605, 410],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_amh": {
+        "region": [1605, 465],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_en": {
+        "region": [1605, 530],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_amh": {
+        "region": [1605, 585],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_en": {
+        "region": [1605, 640],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "SN": {
+        "region": [2790, 840],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      },
+      "issued_date_en": {
+        "region": [35, 195],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "issued_date_amh": {
+        "region": [35, 595],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "fin": {
+        "region": [1755, 738],
+        "lang": "en",
+        "font_size": 35,
+        "direction": "h"
+      }
+    },
+    "image_data": {
+      "photo": { "region": [100, 220], "size": [440, 600] },
+      "photo_sm": { "region": [1172, 650], "size": [140, 186] },
+      "fan_barcode": { "region": [660, 745], "size": [403, 112] },
+      "qr_code": { "region": [2240, 85], "size": [725, 725] }
+    }
+  },
+  "T4": {
+    "template_path": "templates/T4.png",
+    "regions": [
+      [0, 0, 1435, 921],
+      [1568, 0, 3000, 921]
+    ],
+    "text_data": {
+      "name_amh": {
+        "region": [590, 260],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "name_en": {
+        "region": [590, 315],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "birth_date": {
+        "region": [590, 450],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "sex": {
+        "region": [590, 545],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "expiry_date": {
+        "region": [590, 645],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "phone_number": {
+        "region": [1605, 135],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "country": {
+        "region": [1605, 250],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_amh": {
+        "region": [1605, 355],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "region_en": {
+        "region": [1605, 410],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_amh": {
+        "region": [1605, 465],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "zone_en": {
+        "region": [1605, 530],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_amh": {
+        "region": [1605, 585],
+        "lang": "amh",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "woreda_en": {
+        "region": [1605, 640],
+        "lang": "en",
+        "font_size": 40,
+        "direction": "h"
+      },
+      "SN": {
+        "region": [2805, 845],
+        "lang": "en",
+        "font_size": 33,
+        "direction": "h"
+      },
+      "issued_date_en": {
+        "region": [35, 195],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "issued_date_amh": {
+        "region": [35, 595],
+        "lang": "en",
+        "font_size": 28,
+        "direction": "v"
+      },
+      "fin": {
+        "region": [1755, 738],
+        "lang": "en",
+        "font_size": 35,
+        "direction": "h"
+      }
+    },
+    "image_data": {
+      "photo": { "region": [100, 220], "size": [440, 600] },
+      "photo_sm": { "region": [1172, 650], "size": [140, 186] },
+      "fan_barcode": { "region": [660, 745], "size": [403, 112] },
+      "qr_code": { "region": [2240, 85], "size": [700, 700] }
+    }
+  }
+}

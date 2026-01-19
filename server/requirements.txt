@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+rich
+python-telegram-bot[ext]
+python-dotenv
+aiohttp
+httpx
+pydantic
+SQLAlchemy>=2.0
+psycopg2-binary
