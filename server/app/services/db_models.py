@@ -22,7 +22,7 @@ from sqlalchemy.orm import relationship
 from server.app.services.db import Base, engine
 
 
-class User(Base):
+class User(Base): 
     __tablename__ = "users"
 
     id = Column(BigInteger, primary_key=True, autoincrement=True)

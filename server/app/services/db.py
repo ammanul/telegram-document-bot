@@ -7,7 +7,7 @@ from sqlalchemy.engine import url as sa_url
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.orm import declarative_base, sessionmaker, Session
 
-from server.app.config import DATABASE_URL
+from server.app.config import DATABASE_URL 
 
 if not DATABASE_URL:
     raise RuntimeError("DATABASE_URL environment variable must be set for Postgres access.")
