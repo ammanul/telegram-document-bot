@@ -1,0 +1,3 @@
+# requirement files for Render: include sub-requirements
+-r server/requirements.txt
+-r worker/requirements.txt
