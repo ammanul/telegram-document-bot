@@ -48,6 +48,6 @@ async def stats(update: Update, context: ContextTypes.DEFAULT_TYPE):
             )
             message += f"\\- {escaped_display_name}: {user_info['count']}\n"
     else:
-        message += "No documents have been processed yet\."
+        message += r"No documents have been processed yet\."
 
     await update.message.reply_text(message, parse_mode="MarkdownV2")
